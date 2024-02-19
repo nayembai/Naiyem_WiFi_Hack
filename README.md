@@ -1,15 +1,19 @@
 ## Wifi_Hack
 ### Hack WIfi Using Termux! (Requires Root)
 
-<p align="center"><img src="https://i.ibb.co/K74g0SC/hulu.jpg"></p>
+<p align="center"><img src="[https://i.ibb.co/K74g0SC/hulu.jpg](https://i.ibb.co/5cPyw37/IMG-20240219-WA0007.jpg)"></p>
 
 ### Installation :
 
 ```bash
 $ apt update && apt upgrade
+
 $ pkg install -y root-repo
+
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
+
 $ git clone https://github.com/nayembai/Naiyem_WiFi_Hack
+
 $ cd Naiyem_WiFi_Hack
 $ chmod +x Muhammad_Naiyem.py
 $ sudo python Muhammad_Naiyem.py --help
