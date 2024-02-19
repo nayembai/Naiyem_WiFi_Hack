@@ -13,9 +13,10 @@ $ git clone https://github.com/nayembai/Naiyem_WiFi_Hack
 $ cd Naiyem_WiFi_Hack
 $ chmod +x Muhammad_Naiyem.py
 $ sudo python Muhammad_Naiyem.py --help
+$ sudo python Muhammad_Naiyem.py -i wlan0 -K
 ```
 
-#### Example : `sudo python Muhammad_Naiyem.py -i wlan0 -K`
+#### Example : `sudo python Naiyem_WiFi_Hack/_Naiyem.py -i wlan0 -K`
 
 #### Note: 
 **First turn off your Wifi.**
