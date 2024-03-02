@@ -14,10 +14,7 @@ $ pkg install -y git tsu python wpa-supplicant pixiewps iw
 
 $ git clone https://github.com/nayembai/Naiyem_WiFi_Hack
 
-$ cd Naiyem_WiFi_Hack
-$ chmod +x Muhammad_Naiyem.py
-$ sudo python Muhammad_Naiyem.py --help
-$ sudo python Muhammad_Naiyem.py -i wlan0 -K
+$ sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K
 ```
 
 #### Example : `sudo python Naiyem_WiFi_Hack/Muhammad_Naiyem.py -i wlan0 -K`
